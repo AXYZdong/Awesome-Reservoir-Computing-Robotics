@@ -1,9 +1,47 @@
 # Awesome-Reservoir-Computing-Navigation
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This is a repository of **Robotics Navigation with Reservoir Computing** survey from **Southeast University, Nanjing, China**. 
+
 This repository collects papers, code, and software tools related to reservoir computing in robotics navigation.
 
 If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
+
+> [!NOTE]  
+> If you find any missing resources, feel free to submit a **Pull Request** or open an **Issue**. We're thrilled to collaborate with you on this repository.
+
+
+- [Robotics Perception](#reservoir-computing-in-robotics-perception)
+- [Robotics Planning](#reservoir-computing-in-robotics-planning)
+- [Robotics Control](#reservoir-computing-in-robotics-control)
+- [Hardware Implementations](#reservoir-computing-hardware-implementations)
+- [Software Frameworks](#reservoir-computing-software-frameworks)
+
+
+
+## Reservoir Computing in Robotics Perception
+|                                                                                               Paper                                                                                                | Year |                                   Pub.                                   |   Detail   |                               Index Term                                |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:------------------------------------------------------------------------:|:----------:|:-----------------------------------------------------------------------:|
+|                 [Flexible artificial vision computing system based on FeOx optomemristor for speech recognition](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/24080004)                  | 2025 |                        Journal of Semiconductors                         |  Auditory  |      Optomemristor; Analogy signal processing; Speech recognition       |
+|                                     [Dynamic-structured reservoir spiking neural network in sound localization](https://ieeexplore.ieee.org/document/10418107)                                     | 2024 |                               IEEE Access                                |  Auditory  |       Sound localization; Dynamic structure; Liquid state machine       |
+|                              [Hysteretic oscillator-based reservoir computing for audio waveform pattern recognition](https://ieeexplore.ieee.org/document/10651003/)                              | 2024 |      2024 International Joint Conference on Neural Networks (IJCNN)      |  Auditory  |        Coupled oscillators; Audio waveform; Pattern recognition         |
+|                                     [A predictive model for tactile force estimation using audio-tactile data](https://ieeexplore.ieee.org/document/10347357)                                      | 2024 |                   IEEE Robotics and Automation Letters                   | Multimodal |     Audio-tactile; Robotic hand manipulation; multimodal prediction     |
+|                               [Brain-inspired multimodal hybrid neural network for robot place recognition](https://www.science.org/doi/10.1126/scirobotics.abm6996)                               | 2023 |                             Science Robotics                             | Multimodal |       Place recognition; Multimodal sensing; Liquid state machine       |
+|                         [Multimodal learning of audio-visual speech recognition with liquid state machine](https://link.springer.com/chapter/10.1007/978-981-99-1645-0_46)                         | 2023 |                      Neural Information Processing                       | Multimodal |    Multimodal fusion; Audio-visual recognition; Liquid state machine    |
+|                          [Tapered whisker reservoir computing for real-time terrain identification-based navigation](https://www.nature.com/articles/s41598-023-31994-x)                           | 2023 |                            Scientific Reports                            |  Tactile   |  Robotic whisker; Terrain classification; Physical reservoir computing  |
+|                                             [EchoVPR: echo state networks for visual place recognition](https://ieeexplore.ieee.org/document/9712237/)                                             | 2022 |                   IEEE Robotics and Automation Letters                   |   Visual   |     Visual place recognition; Temporal Dynamics; Echo state network     |
+|                            [Dynamic vision sensor based gesture recognition using liquid state machine](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_51)                            | 2022 |       Artificial Neural Networks and Machine Learning – ICANN 2022       |   Visual   |      Gesture recognition; Event-based vision; Liquid state machine      |
+|                                 [Ultralow-power machine vision with self-powered sensor reservoir](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202106092)                                 | 2022 |                             Advanced Science                             |   Visual   |           In-sensor computing; Machine vision; Ultralow-power           |
+|                                  [Ground reaction force estimation in a quadruped robot via liquid state networks](https://ieeexplore.ieee.org/document/9892423)                                   | 2022 |      2022 International Joint Conference on Neural Networks (IJCNN)      |  Tactile   | Ground reaction force estimation; Quadruped robot; Liquid state machine |
+|          [A tapered whisker-based physical reservoir computing system for mobile robot terrain identification in unstructured environments](https://ieeexplore.ieee.org/document/9695268)          | 2022 |                   IEEE Robotics and Automation Letters                   |  Tactile   |    Tapered whisker; Terrain identification; Mobile robot navigation     |
+|                    [Bluetooth indoor localization with gaussian–bernoulli restricted boltzmann machine plus liquid state machine](https://ieeexplore.ieee.org/document/9670468)                    | 2022 |           IEEE Transactions on Instrumentation and Measurement           |  Spatial   |  Bluetooth indoor localization; Online learning; Liquid state machine   |
+|                                      [A novel approach to image-sequence-based mobile robot place recognition](https://ieeexplore.ieee.org/document/8931657)                                       | 2021 |       IEEE Transactions on Systems, Man, and Cybernetics: Systems        | Multimodal |          Place recognition; Echo state network; Image sequence          |
+| [Haptic feedback with a reservoir computing-based recurrent neural network for multiple terrain classification of a walking robot](https://link.springer.com/chapter/10.1007/978-3-030-27538-9_20) | 2019 |                  Intelligent Robotics and Applications                   |  Tactile   |         Terrain classification; Soft terrains; Haptic feedback          |
+|                    [A digital liquid state machine with biologically inspired learning and its application to speech recognition](https://ieeexplore.ieee.org/document/7024132)                    | 2015 |        IEEE Transactions on Neural Networks and Learning Systems         |  Auditory  |     Speech recognition; Spike-based learning; Liquid state machine      |
+|                [Learning slow features with reservoir computing for biologically-inspired robot localization](https://www.sciencedirect.com/science/article/pii/S089360801100222X)                 | 2012 |                             Neural Networks                              |  Spatial   |         Slow feature analysis; Place cells; Robot localization          |
+|                                                      [Event-based features for robotic vision](https://ieeexplore.ieee.org/document/6696960)                                                       | 2013 | 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems |   Visual   |       Event-based vision; Feature extraction; Echo state network        |
+|              [Unsupervised learning in reservoir computing: modeling hippocampal place cells for small mobile robots](https://link.springer.com/chapter/10.1007/978-3-642-04274-4_77)              | 2009 |                 Artificial Neural Networks – ICANN 2009                  |  Spatial   |        Unsupervised learning; Slow feature analysis; Place cell         |
+|                     [Event detection and localization for small mobile robots using reservoir computing](https://www.sciencedirect.com/science/article/pii/S0893608008001317)                      | 2008 |                             Neural Networks                              |  Spatial   |                   Robot localization; Event detection                   |
 
 
 ## Reservoir Computing in Robotics Planning
