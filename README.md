@@ -180,6 +180,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 |                      PyRCN                       | 2022 |                [GitHub](https://github.com/blindedjoy/RcTorch)                |  √  |  ×  |        Python        |
 |              ReservoirComputing.jl               | 2022 |           [GitHub](https://github.com/SciML/ReservoirComputing.jl)            |  √  |  ×  |        Julia         |
 |                     SNP, DNP                     | 2023 |           [Website](https://codeocean.com/capsule/7809611/tree/v1)            |  √  |  ×  |        Matlab        |
+|                      PRCpy                       | 2024 |                  [GitHub](https://github.com/OSJL-py/PRCpy)                   |  √  |  ×  |        Python        |
 |                     conn2res                     | 2024 |               [GitHub](https://github.com/netneurolab/conn2res)               |  √  |  √  |        Python        |
 |                   reservoirnet                   | 2025 |  [GitHub](https://github.com/computorg/published-202505-ferte-reservoirnet)   |  √  |  ×  |          R           |
 | **Neurocomputing-Oriented Simulation Framework** |      |                                                                               |     |     |                      |
