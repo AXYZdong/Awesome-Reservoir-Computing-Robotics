@@ -1,12 +1,13 @@
 # Awesome-Reservoir-Computing-Robotics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository collects papers, code, and software frameworks related to Reservoir Computing for Robotic **Perception, Navigation, and Control**.
+A curated collection of papers, codes, and software frameworks at the intersection of **Reservoir Computing** and **Robotics**, with a focus on **Perception, Navigation, and Control**.
 
-If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
+We welcome your support — if you find this repository valuable, please consider giving it a ⭐ or sharing it with others.
 
-> [!NOTE]  
-> If you find any missing resources, feel free to submit a **Pull Request** or open an **Issue**. We're thrilled to collaborate with you on this repository.
+> [!NOTE]
+> Contributions are highly encouraged! If you spot any missing resources, feel free to submit a **Pull Request** or open an **Issue**. We look forward to collaborating with you to keep this collection comprehensive and up-to-date.
+
 
 
 - [Robotics Perception](#reservoir-computing-in-robotics-perception)
@@ -26,7 +27,13 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
   - [Hardware Implementations](#reservoir-computing-hardware-implementations)
   - [Software Frameworks](#reservoir-computing-software-frameworks)
 
+## 📖 Overview
 
+Reservoir Computing (RC) has emerged as a powerful paradigm for robotic applications, offering efficient temporal processing, low training cost, and compatibility with neuromorphic hardware. This repository systematically organizes resources spanning:
+
+- **Perception** — Visual, auditory, tactile, and olfactory perception
+- **Navigation** — Localization, path planning, and decision-making
+- **Control** — Motion control, morphological control, and collaborative control
 
 ## Reservoir Computing in Robotics Perception
 
