@@ -35,7 +35,7 @@ Reservoir Computing (RC) has emerged as a powerful paradigm for robotic applicat
 - **Navigation** — Localization, path planning, and decision-making
 - **Control** — Motion control, morphological control, and collaborative control
 
-## Reservoir Computing in Robotics Perception
+## 👁️ Reservoir Computing for Robotics Perception
 
 ### Visual Perception
 | Paper                                                                                                                                   |  Year  |             Pub.             |                 Index Term                 |
@@ -73,7 +73,7 @@ Reservoir Computing (RC) has emerged as a powerful paradigm for robotic applicat
 
 
 
-## Reservoir Computing in Robotics Navigation
+## 🧭 Reservoir Computing for Robotics Navigation
 
 ### Localization
 | Paper                                                                                                                                                                                           | Year |      Pub.       |                     Index Term                     |
@@ -106,7 +106,7 @@ Reservoir Computing (RC) has emerged as a powerful paradigm for robotic applicat
 
 
 
-## Reservoir Computing in Robotics Control
+## ⚙️ Reservoir Computing for Robotics Control
 
 ### Motion Control
 | Paper                                                                                                                                                      | Year |                          Pub.                           |                   Index Term                    |
