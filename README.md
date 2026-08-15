@@ -9,7 +9,6 @@ We welcome your support — if you find this repository valuable, please conside
 > Contributions are highly encouraged! If you spot any missing resources, feel free to submit a **Pull Request** or open an **Issue**. We look forward to collaborating with you to keep this collection comprehensive and up-to-date.
 
 
-
 - [Robotics Perception](#reservoir-computing-in-robotics-perception)
   - [Visual Perception](#visual-perception)
   - [Auditory Perception](#auditory-perception)
@@ -26,6 +25,7 @@ We welcome your support — if you find this repository valuable, please conside
 - [Implementations](#implementations)
   - [Hardware Implementations](#reservoir-computing-hardware-implementations)
   - [Software Frameworks](#reservoir-computing-software-frameworks)
+
 
 ## 📖 Overview
 
