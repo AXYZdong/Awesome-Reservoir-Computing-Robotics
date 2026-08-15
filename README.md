@@ -10,10 +10,21 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 
 
 - [Robotics Perception](#reservoir-computing-in-robotics-perception)
+  - [Visual Perception](#visual-perception)
+  - [Auditory Perception](#auditory-perception)
+  - [Tactile Perception](#tactile-perception)
+  - [Olfactory Perception](#olfactory-perception)
 - [Robotics Navigation](#reservoir-computing-in-robotics-navigation)
+  - [Localization](#localization)
+  - [Path Planning](#path-planning)
+  - [Decision-Making](#decision-making)
 - [Robotics Control](#reservoir-computing-in-robotics-control)
-- [Hardware Implementations](#reservoir-computing-hardware-implementations)
-- [Software Frameworks](#reservoir-computing-software-frameworks)
+  - [Motion Control](#motion-control)
+  - [Morphological Control](#morphological-control)
+  - [Collaborative Control](#collaborative-control)
+- [Implementations](#implementations)
+  - [Hardware Implementations](#reservoir-computing-hardware-implementations)
+  - [Software Frameworks](#reservoir-computing-software-frameworks)
 
 
 
@@ -120,7 +131,8 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 
 
 
-## Reservoir Computing Hardware Implementations
+## Implementations
+### Reservoir Computing Hardware Implementations
 
 - FPGA-based Implementations
 
@@ -201,7 +213,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 
 
 
-## Reservoir Computing Software Frameworks
+### Reservoir Computing Software Frameworks
 
 |                     Software                     | Year |                                  Open Source                                  | ESN | LSM | Programming Language |
 |:------------------------------------------------:|:----:|:-----------------------------------------------------------------------------:|:---:|:---:|:--------------------:|
@@ -221,6 +233,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing 👋.
 |                      PRCpy                       | 2024 |                  [GitHub](https://github.com/OSJL-py/PRCpy)                   |  √  |  ×  |        Python        |
 |                     conn2res                     | 2024 |               [GitHub](https://github.com/netneurolab/conn2res)               |  √  |  √  |        Python        |
 |                   reservoirnet                   | 2025 |  [GitHub](https://github.com/computorg/published-202505-ferte-reservoirnet)   |  √  |  ×  |          R           |
+|                     OpenPRC                      | 2026 |             [GitHub](https://github.com/DARE-Lab-VT/OpenPRC-dev)              |  √  |  ×  |        Python        |
 | **Neurocomputing-Oriented Simulation Framework** |      |                                                                               |     |     |                      |
 |                      Brain2                      | 2014 |                [GitHub](https://github.com/brian-team/brian2)                 |  ×  |  √  |        Python        |
 |                      Nengo                       | 2014 |                   [GitHub](https://github.com/nengo/nengo)                    |  ×  |  √  |        Python        |
