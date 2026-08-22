@@ -254,6 +254,4 @@ Reservoir Computing (RC) has emerged as a powerful paradigm for robotic applicat
 |                   SpikingJelly                   | 2023 |            [GitHub](https://github.com/fangwei123456/spikingjelly)            |  ×  |  √  |        Python        |
 
 ---
-<a href="https://clustrmaps.com/site/1c9kj" title="ClustrMaps">
-  <img src="https://www.clustrmaps.com/map_v2.png?d=SpMxv-E5e4ngMl0aLMOr83hM3_ezLZlg4lKRuWXWtkU&cl=ffffff" />
-</a>
+<a href="https://mapmyvisitors.com/web/1c7mu"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=FCX_X7xhvgILMpMlL5VKcnzyd4ASrpge0mLAjUyiIa8&cl=ffffff" /></a>
