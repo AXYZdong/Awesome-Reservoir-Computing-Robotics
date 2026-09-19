@@ -1,9 +1,23 @@
-# Awesome-Reservoir-Computing-Robotics
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<h1 align="center">
+  🧠 Reservoir Computing Meets Robotics 🤖
+</h1>
 
-A curated collection of papers, codes, and software frameworks at the intersection of **Reservoir Computing** and **Robotics**, with a focus on **Perception, Navigation, and Control**.
+<p align="center">
+  <a href="https://awesome.re" target="_blank">
+    <img src="https://awesome.re/badge.svg" alt="Awesome Badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/Maintain-Active-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Maintain Badge"/>
+  <a href="http://makeapullrequest.com" target="_blank">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PR's Welcome"/>
+  </a>
+</p>
 
-We welcome your support — if you find this repository valuable, please consider giving it a ⭐ or sharing it with others.
+## 🏡 About
+This repository accompanies our survey on **"Reservoir Computing Meets Robotics"**.
+
+It provides a structured, curated collection of research literature on the intersection of **Reservoir Computing** and **Robotics**, with a focus on **Perception, Navigation, and Control**.
+
+Welcome your support — if you find this repository valuable, please consider giving it a ⭐ or sharing it with others.
 
 > [!NOTE]
 > Contributions are highly encouraged! If you spot any missing resources, feel free to submit a **Pull Request** or open an **Issue**. We look forward to collaborating with you to keep this collection comprehensive and up-to-date.
