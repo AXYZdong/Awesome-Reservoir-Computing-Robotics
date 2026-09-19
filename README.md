@@ -3,13 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://awesome.re" target="_blank">
-    <img src="https://awesome.re/badge.svg" alt="Awesome Badge"/>
-  </a>
-  <img src="https://img.shields.io/badge/Maintain-Active-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Maintain Badge"/>
-  <a href="http://makeapullrequest.com" target="_blank">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PR's Welcome"/>
-  </a>
+  <a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"/></a>
+  <img src="https://img.shields.io/badge/Maintain-Active-8A2BE2?style=flat&logo=github&logoColor=white" alt="Maintain Badge"/>
+  <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PR's Welcome"/></a>
 </p>
 
 ## 🏡 About
