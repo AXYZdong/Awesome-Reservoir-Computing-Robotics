@@ -9,7 +9,7 @@
 </p>
 
 ## 🏡 About
-This repository accompanies our survey on **"Reservoir Computing Meets Robotics"**.
+This repository accompanies our survey on **"Reservoir Computing Meets Robotics: A Comprehensive Survey of Perception, Navigation, and Control"**.
 
 It provides a structured, curated collection of research literature on the intersection of **Reservoir Computing** and **Robotics**, with a focus on **Perception, Navigation, and Control**.
 
